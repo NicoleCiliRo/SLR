@@ -1,0 +1,12 @@
+"Study_ID","Setting","Device","Reference_Test","Sensitivity","Specificity","AUC","n_diseased","n_non_diseased","TP","FN","FP","TN","PPV","NPV","Accuracy"
+"Ahrari_et_al","in vivo","VistaCam iX","Visual and tactile examination",0.89,0.14,0.65,9,34,8,1,29,5,0.216216216216216,0.833333333333333,0.302325581395349
+"Heck_et_al","in vitro","own NIRR in vitro model setup","Micro-Computed Tomography",0.29,0.84,0.57,92,158,27,65,25,133,0.519230769230769,0.671717171717172,0.64
+"Hoxie_et_al","in vitro","iTero Element 5D","Micro-Computed Tomography",0.56,0.89,0.71,45,53,25,20,6,47,0.806451612903226,0.701492537313433,0.73469387755102
+"Kanar_et_al","in vivo","iTero Element 5D","Consensus by two examiners based on bitewing radiograph",0.64,0.8,0.79,197,442,126,71,88,354,0.588785046728972,0.832941176470588,0.751173708920188
+"Kocak et al.","in vivo","iTero Element 5D","Consensus by two examiners for enamel lesions (based on clinical examination + bitewing radiographs); Lesion opening for dentin lesions",0.77,0.33,0.71,326,9,251,75,6,3,0.976653696498054,0.0384615384615385,0.75820895522388
+"Litzenburger_et_al","in vitro","iTero Element 5D","Micro-computed Tomography",0.33,0.84,0.58,92,158,30,62,25,133,0.545454545454545,0.682051282051282,0.652
+"Metzger_et_al","in vivo","DIAGNOcam","Bitewing radiograph examination by experts",0.73,0.97,0.85,223,3276,163,60,98,3178,0.624521072796935,0.981470043236566,0.954844241211775
+"Rodrigues_et_al","in vitro","KaVo","Histological Analysis",0.37,0.96,0.67,73,98,27,46,4,94,0.870967741935484,0.671428571428571,0.707602339181287
+"Shen_et_al","in vivo","iTero Element 5D","Ground Truth established by experienced operators",0.44,0.83,0.63,68,448,30,38,76,372,0.283018867924528,0.907317073170732,0.77906976744186
+"Stratigaki_et_al","in vivo","iTero Element 5D","Clinical Validation",0.97,0.6,0.8,85,31,82,3,12,19,0.872340425531915,0.863636363636364,0.870689655172414
+"Wang_et_al","in vitro","iTero Element 5D","Histological Analysis",0.76,0.96,0.86,87,31,66,21,1,30,0.985074626865672,0.588235294117647,0.813559322033898
