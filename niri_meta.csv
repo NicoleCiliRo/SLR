@@ -1,12 +1,12 @@
 Study_ID,Setting,Sensitivity,Specificity,AUC,n_diseased,n_non_diseased,Device,Reference_Test
-Ahrari_et_al,in vivo,0.89,0.14,0.65,9,34,VistaCam iX,Visual and tactile examination
-Heck_et_al,in vitro,0.29,0.84,0.57,92,158,own NIRR in vitro model setup,Micro-Computed Tomography
-Hoxie_et_al,in vitro,0.56,0.89,0.71,45,53,iTero Element 5D,Micro-Computed Tomography
-Kanar_et_al,in vivo,0.64,0.80,0.79,197,442,iTero Element 5D,Consensus by two examiners based on bitewing radiograph
-Kocak et al.,in vivo,0.77,0.33,0.71,326,9,iTero Element 5D,Consensus by two examiners for enamel lesions (based on clinical examination + bitewing radiographs); Lesion opening for dentin lesions
-Litzenburger_et_al,in vitro,0.33,0.84,0.58,92,158,iTero Element 5D,Micro-computed Tomography
-Metzger_et_al,in vivo,0.73,0.97,0.85,223,3276,DIAGNOcam,Bitewing radiograph examination by experts
-Rodrigues_et_al,in vitro,0.37,0.96,0.67,73,98,KaVo,Histological Analysis
-Shen_et_al,in vivo,0.44,0.83,0.63,68,448,iTero Element 5D,Ground Truth established by experienced operators
-Stratigaki_et_al,in vivo,0.97,0.60,0.80,85,31,iTero Element 5D,Clinical Validation
-Wang_et_al,in vitro,0.76,0.96,0.86,87,31,iTero Element 5D,Histological Analysis
+Ahrari_et_al,in vivo,0.89,0.14,0.65,9,34,NIRT,Visual and tactile examination
+Heck_et_al,in vitro,0.29,0.84,0.57,92,158,NIRR,Micro-Computed Tomography
+Hoxie_et_al,in vitro,0.56,0.89,0.71,45,53,NIRR,Micro-Computed Tomography
+Kanar_et_al,in vivo,0.64,0.80,0.79,197,442,NIRR,Consensus by two examiners based on bitewing radiograph
+Kocak et al.,in vivo,0.77,0.33,0.71,326,9,NIRR,Consensus by two examiners for enamel lesions (based on clinical examination + bitewing radiographs); Lesion opening for dentin lesions
+Litzenburger_et_al,in vitro,0.33,0.84,0.58,92,158,NIRR,Micro-computed Tomography
+Metzger_et_al,in vivo,0.73,0.97,0.85,223,3276,NIRT,Bitewing radiograph examination by experts
+Rodrigues_et_al,in vitro,0.37,0.96,0.67,73,98,NIRT,Histological Analysis
+Shen_et_al,in vivo,0.44,0.83,0.63,68,448,NIRR, Ground Truth established by experienced operators
+Stratigaki_et_al,in vivo,0.97,0.60,0.80,85,31,NIRR,Clinical Validation
+Wang_et_al,in vitro,0.76,0.96,0.86,87,31,NIRR,Histological Analysis
