@@ -1,4 +1,4 @@
-Study_ID,Setting,Sensitivity,Specificity,AUC,n_diseased,n_non_diseased,Device,Reference_Test
+Study_ID,Setting,Sensitivity,Specificity,AUC,n_diseased,n_non_diseased,Modality,Reference_Test
 Ahrari_et_al,in vivo,0.89,0.14,0.65,9,34,NIRT,Visual and tactile examination
 Heck_et_al,in vitro,0.29,0.84,0.57,92,158,NIRR,Micro-Computed Tomography
 Hoxie_et_al,in vitro,0.56,0.89,0.71,45,53,NIRR,Micro-Computed Tomography
